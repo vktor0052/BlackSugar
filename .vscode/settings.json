@@ -1,5 +1,8 @@
 {
     "yaml.schemas": {
         "https://davidanson.vscode-unpkg.net/DavidAnson/vscode-markdownlint/0.57.0/extension/markdownlint-cli2-config-schema.json": "vscode-vfs://github/tr4200812/BlackSugar/.github/workflows/jekyll-gh-pages.yml"
-    }
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "tr4200812-patch-1"
+    ]
 }
